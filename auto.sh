@@ -9,7 +9,7 @@ chmod a+x ~/bin/repo
 git config --global user.email "almahmudanik023@gmail.com"
 git config --global user.name "almahmudanik023"
 
-cd
+cd android
 
 repo init -u https://github.com/Evolution-X/manifest -b vic --git-lfs
 
